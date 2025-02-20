@@ -1,6 +1,6 @@
-# 🏛️ Intelligent Legal Decision Support System
+# 🏛️ Intelligent Legal Decision Support System with AI Automation
 
-The **Intelligent Legal Decision Support System** is an AI-powered legal chatbot that assists users in making informed legal decisions under the Indian Constitution. It uses **Llama 2** for legal response generation and **Pinecone** as a vector database for efficient legal document retrieval.
+The **Intelligent Legal Decision Support System with AI Automation** is an AI-powered legal chatbot that assists users in making informed legal decisions under the Indian Constitution. It uses **Llama 2** for legal response generation and **Pinecone** as a vector database for efficient legal document retrieval.
 
 ## 🚀 Features
 - **Retrieval-Augmented Generation (RAG):** Ensures responses are backed by relevant legal documents.
@@ -29,9 +29,6 @@ The **Intelligent Legal Decision Support System** is an AI-powered legal chatbot
 - **Dhinesh Kumar T**
 
 Final-year CSE students from **Saveetha Engineering College**.
-
-## 📜 License
-This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for details.
 
 ## 💡 Future Enhancements
 - **Fine-tuning Llama 2** with domain-specific legal datasets.
